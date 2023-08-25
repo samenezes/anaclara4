@@ -1,0 +1,15 @@
+.container_Header{
+    background: rgb(130, 167, 214);
+    text-align: center;
+   
+    position: fixed;
+    width: 100%;
+}
+
+.container_Logo{
+    padding-top: 5px;
+    font-size: 40px;
+    color:white;
+}
+
+ 

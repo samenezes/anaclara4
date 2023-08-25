@@ -1,0 +1,16 @@
+.container_Footer{
+    padding-top: 5px;
+    background: rgb(130, 167, 214);
+   
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.container_Logo{
+    font-size: 40px;
+    color:white;
+    text-align: center;
+}
+
+ 
